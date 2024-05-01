@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\bin\Debug\Sale Shop Computers.exe.config
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\bin\Debug\Sale Shop Computers.exe
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\bin\Debug\Sale Shop Computers.pdb
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale Shop Computers.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale_Shop_Computers.Form1.resources
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale_Shop_Computers.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale Shop Computers.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale Shop Computers.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale Shop Computers.exe
+C:\Users\SKY LION\source\repos\Sale Shop Computers\Sale Shop Computers\obj\Debug\Sale Shop Computers.pdb

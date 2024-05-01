@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\SKY LION\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.pdb

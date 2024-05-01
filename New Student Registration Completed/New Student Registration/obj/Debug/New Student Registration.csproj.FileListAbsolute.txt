@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\bin\Debug\New Student Registration.exe.config
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\bin\Debug\New Student Registration.exe
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\bin\Debug\New Student Registration.pdb
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New Student Registration.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New_Student_Registration.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New Student Registration.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New Student Registration.exe
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New Student Registration.pdb
+C:\Users\SKY LION\source\repos\New Student Registration\New Student Registration\obj\Debug\New_Student_Registration.NewStudentForm.resources
