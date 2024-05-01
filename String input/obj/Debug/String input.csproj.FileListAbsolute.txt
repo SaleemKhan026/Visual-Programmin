@@ -1,0 +1,7 @@
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\bin\Debug\String input.exe.config
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\bin\Debug\String input.exe
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\bin\Debug\String input.pdb
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\obj\Debug\String input.csproj.AssemblyReference.cache
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\obj\Debug\String input.csproj.CoreCompileInputs.cache
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\obj\Debug\String input.exe
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\String input\obj\Debug\String input.pdb
