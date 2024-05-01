@@ -1,0 +1,22 @@
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\bin\Debug\020 - Button Control.exe.config
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\bin\Debug\020 - Button Control.exe
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\bin\Debug\020 - Button Control.pdb
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\020 - Button Control.csproj.AssemblyReference.cache
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\_020___Button_Control.Form1.resources
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\_020___Button_Control.Properties.Resources.resources
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\020 - Button Control.csproj.GenerateResource.cache
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\020 - Button Control.csproj.CoreCompileInputs.cache
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\020 - Button Control.exe
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\020 - Button Control.pdb
+E:\Visual-Programming---Basic-Concepts\020 - Button Control\obj\Debug\_020___Button_Control.Form2.resources
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\bin\Debug\020 - Button Control.exe.config
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\bin\Debug\020 - Button Control.exe
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\bin\Debug\020 - Button Control.pdb
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\020 - Button Control.csproj.AssemblyReference.cache
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\_020___Button_Control.Form1.resources
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\_020___Button_Control.Form2.resources
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\_020___Button_Control.Properties.Resources.resources
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\020 - Button Control.csproj.GenerateResource.cache
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\020 - Button Control.csproj.CoreCompileInputs.cache
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\020 - Button Control.exe
+D:\BSCS 5Th\Visual Programing c\C# Final Term Course\Practicles\020 - Button Control\obj\Debug\020 - Button Control.pdb

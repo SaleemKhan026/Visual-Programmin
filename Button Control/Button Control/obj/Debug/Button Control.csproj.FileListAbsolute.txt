@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\Button Control\Button Control\bin\Debug\Button Control.exe.config
+C:\Users\SKY LION\source\repos\Button Control\Button Control\bin\Debug\Button Control.exe
+C:\Users\SKY LION\source\repos\Button Control\Button Control\bin\Debug\Button Control.pdb
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button Control.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button_Control.Form1.resources
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button_Control.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button Control.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button Control.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button Control.exe
+C:\Users\SKY LION\source\repos\Button Control\Button Control\obj\Debug\Button Control.pdb
