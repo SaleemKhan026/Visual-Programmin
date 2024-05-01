@@ -1,0 +1,7 @@
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\bin\Debug\Object Method.exe.config
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\bin\Debug\Object Method.exe
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\bin\Debug\Object Method.pdb
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\obj\Debug\Object Method.csproj.AssemblyReference.cache
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\obj\Debug\Object Method.csproj.CoreCompileInputs.cache
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\obj\Debug\Object Method.exe
+C:\Users\SALEEM KHAN\Source\Repos\Object Method\obj\Debug\Object Method.pdb

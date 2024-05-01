@@ -1,0 +1,7 @@
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\bin\Debug\Conditional Structres.exe.config
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\bin\Debug\Conditional Structres.exe
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\bin\Debug\Conditional Structres.pdb
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\obj\Debug\Conditional Structres.csproj.AssemblyReference.cache
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\obj\Debug\Conditional Structres.csproj.CoreCompileInputs.cache
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\obj\Debug\Conditional Structres.exe
+C:\Users\SALEEM KHAN\Source\Repos\Conditional Structres\Conditional Structres\obj\Debug\Conditional Structres.pdb

@@ -1,0 +1,7 @@
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\obj\Debug\DATA Types.csproj.AssemblyReference.cache
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\obj\Debug\DATA Types.csproj.CoreCompileInputs.cache
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\bin\Debug\DATA Types.exe.config
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\bin\Debug\DATA Types.exe
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\bin\Debug\DATA Types.pdb
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\obj\Debug\DATA Types.exe
+C:\Users\SALEEM KHAN\Source\Repos\DATA Types\obj\Debug\DATA Types.pdb
