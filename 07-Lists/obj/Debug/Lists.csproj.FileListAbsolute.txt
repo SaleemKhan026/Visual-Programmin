@@ -1,0 +1,7 @@
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\bin\Debug\Lists.exe.config
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\bin\Debug\Lists.exe
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\bin\Debug\Lists.pdb
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\obj\Debug\Lists.exe
+E:\BSCS 5Th\Visual Programing c\C# Mid-Term Course\C# Mid-Term Practices\Lists\obj\Debug\Lists.pdb
