@@ -1,0 +1,21 @@
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\SALEEM KHAN\Source\Repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+G:\Projects\User random arrays\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+G:\Projects\User random arrays\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\Projects\User random arrays\obj\Debug\ConsoleApp2.exe
+G:\Projects\User random arrays\obj\Debug\ConsoleApp2.pdb
+G:\Projects\User random arrays\bin\Debug\ConsoleApp2.exe.config
+G:\Projects\User random arrays\bin\Debug\ConsoleApp2.exe
+G:\Projects\User random arrays\bin\Debug\ConsoleApp2.pdb
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\obj\Debug\ConsoleApp2.exe
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\obj\Debug\ConsoleApp2.pdb
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\bin\Debug\ConsoleApp2.exe.config
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\bin\Debug\ConsoleApp2.exe
+E:\BSCS 5Th\Visual Programing c\Projects\User random arrays\bin\Debug\ConsoleApp2.pdb

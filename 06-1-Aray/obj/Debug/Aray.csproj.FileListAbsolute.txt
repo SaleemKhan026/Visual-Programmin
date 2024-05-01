@@ -1,0 +1,7 @@
+C:\Users\SALEEM KHAN\Source\Repos\Aray\obj\Debug\Aray.csproj.AssemblyReference.cache
+C:\Users\SALEEM KHAN\Source\Repos\Aray\obj\Debug\Aray.csproj.CoreCompileInputs.cache
+C:\Users\SALEEM KHAN\Source\Repos\Aray\bin\Debug\Aray.exe.config
+C:\Users\SALEEM KHAN\Source\Repos\Aray\bin\Debug\Aray.exe
+C:\Users\SALEEM KHAN\Source\Repos\Aray\bin\Debug\Aray.pdb
+C:\Users\SALEEM KHAN\Source\Repos\Aray\obj\Debug\Aray.exe
+C:\Users\SALEEM KHAN\Source\Repos\Aray\obj\Debug\Aray.pdb
