@@ -1,0 +1,7 @@
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\bin\Debug\Constructer And dTypes.exe.config
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\bin\Debug\Constructer And dTypes.exe
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\bin\Debug\Constructer And dTypes.pdb
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\obj\Debug\Constructer And dTypes.csproj.AssemblyReference.cache
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\obj\Debug\Constructer And dTypes.csproj.CoreCompileInputs.cache
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\obj\Debug\Constructer And dTypes.exe
+C:\Users\SALEEM KHAN\Source\Repos\Constructer And dTypes\obj\Debug\Constructer And dTypes.pdb
