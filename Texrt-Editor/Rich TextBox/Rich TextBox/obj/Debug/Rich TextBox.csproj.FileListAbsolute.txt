@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\bin\Debug\Rich TextBox.exe.config
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\bin\Debug\Rich TextBox.exe
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\bin\Debug\Rich TextBox.pdb
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich TextBox.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich_TextBox.Form1.resources
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich_TextBox.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich TextBox.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich TextBox.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich TextBox.exe
+C:\Users\SKY LION\source\repos\Rich TextBox\Rich TextBox\obj\Debug\Rich TextBox.pdb
