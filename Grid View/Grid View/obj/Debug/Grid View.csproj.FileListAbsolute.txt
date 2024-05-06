@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\Grid View\Grid View\bin\Debug\Grid View.exe.config
+C:\Users\SKY LION\source\repos\Grid View\Grid View\bin\Debug\Grid View.exe
+C:\Users\SKY LION\source\repos\Grid View\Grid View\bin\Debug\Grid View.pdb
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid View.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid_View.Form1.resources
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid_View.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid View.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid View.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid View.exe
+C:\Users\SKY LION\source\repos\Grid View\Grid View\obj\Debug\Grid View.pdb

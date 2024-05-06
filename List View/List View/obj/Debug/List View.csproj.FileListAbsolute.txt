@@ -1,0 +1,10 @@
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List View.csproj.AssemblyReference.cache
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List_View.Form1.resources
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\Users\SKY LION\source\repos\List View\List View\bin\Debug\List View.exe.config
+C:\Users\SKY LION\source\repos\List View\List View\bin\Debug\List View.exe
+C:\Users\SKY LION\source\repos\List View\List View\bin\Debug\List View.pdb
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List View.exe
+C:\Users\SKY LION\source\repos\List View\List View\obj\Debug\List View.pdb
